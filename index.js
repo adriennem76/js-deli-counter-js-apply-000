@@ -22,3 +22,11 @@ function currentLine (line){
   lineStatement = lineStatement.slice (0,lineStatement.length-1)
   return lineStatement
 }
+
+function giveANumber (line){
+  var count = 0
+  for (let i = 0; i < line.length; i++){
+    
+  }
+  return count 
+}
