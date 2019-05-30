@@ -25,8 +25,9 @@ function currentLine (line){
 
 function giveANumber (line){
   var count = 0
-  for (let i = 0; i < line.length; i++){
+  count = line.length + 1
+  // for (let i = 0; i < line.length; i++){
     
-  }
+  // }
   return count 
 }
